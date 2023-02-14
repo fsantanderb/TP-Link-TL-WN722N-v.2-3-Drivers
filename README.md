@@ -49,7 +49,7 @@ sudo rmmod r8188eu.ko
 git clone https://github.com/aircrack-ng/rtl8188eus
 cd rtl8188eus
 sudo su (Cambiar a modo root)
-cd /etc/modprobe
+cd /etc/modprobe.d
 echo "blacklist r8188eu" > realtek.conf 
 exit (salir de root)
 ```
