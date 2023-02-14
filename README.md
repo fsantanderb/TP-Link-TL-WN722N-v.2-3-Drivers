@@ -79,6 +79,6 @@ sudo iw dev wlan0 set type monitor
 
 `iwconfig` (nuevamente para verificar el cambio a modo monitor)
 
-![alt text](https://gitcnc.investigaciones.cl/FSB/tp-link-tl-wn722n-v.2-3-drivers/-/raw/master/Imagenes/Modo_Monitor.JPG)
+![alt text](https://github.com/fsantanderb/TP-Link-TL-WN722N-v.2-3-Drivers/blob/main/imagenes/Modo_Monitor.JPG)
 
 `sudo airodump-ng wlan0` (Para verificar recepción de señales)
