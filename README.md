@@ -14,19 +14,19 @@ Instalación en Kali Linux de los Drivers TP-Link TL-WN722N v.2-3
 
 a. En virtualBox al configurar la Máquina Virtual de Kali Linux, en el apartado USB, agregar nuevo filtro USB
 
-![alt text](https://gitcnc.investigaciones.cl/FSB/tp-link-tl-wn722n-v.2-3-drivers/-/raw/master/Imagenes/VirtualBoxUSB.jpg)
+![alt text](https://github.com/fsantanderb/TP-Link-TL-WN722N-v.2-3-Drivers/blob/main/imagenes/VirtualBoxUSB.jpg)
 
 b.- Seleccionar dispositivo USB correcpondiente a la tarjeta WiFi
 
-![alt text](https://gitcnc.investigaciones.cl/FSB/tp-link-tl-wn722n-v.2-3-drivers/-/raw/master/Imagenes/VirtualBoxUSB2.jpg)
+![alt text](https://github.com/fsantanderb/TP-Link-TL-WN722N-v.2-3-Drivers/blob/main/imagenes/VirtualBoxUSB2.jpg)
 
 c.- Luego en la interfaz gráfica de Kali Linux, seleccionar el dispositivo USB, tal como se observa en la siguiente imágen:
 
-![alt text](https://gitcnc.investigaciones.cl/FSB/tp-link-tl-wn722n-v.2-3-drivers/-/raw/master/Imagenes/VirtualBoxUSB3.jpg)
+![alt text](https://github.com/fsantanderb/TP-Link-TL-WN722N-v.2-3-Drivers/blob/main/imagenes/VirtualBoxUSB3.jpg)
 
 Con esto ya debería estar diponible el dispositivo en nuestro Kali Linux, verificar con el comando `iwconfig`
 
-![alt text](https://gitcnc.investigaciones.cl/FSB/tp-link-tl-wn722n-v.2-3-drivers/-/raw/master/Imagenes/VirtualBoxKali.jpg)
+![alt text](https://github.com/fsantanderb/TP-Link-TL-WN722N-v.2-3-Drivers/blob/main/imagenes/VirtualBoxKali.jpg)
 
 ### 2.- Configuración en Kali Linux
 
